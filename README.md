@@ -28,7 +28,3 @@ Dataset ini dirancang untuk penelitian dan analisis Temu Kembali Informasi pada 
 
 1. **Ekstraksi PDF**: Buka dan analisis file PDF di dalam `Narkotika.zip`.
 2. **Analisis Data dari Overview.xlsx**: Gunakan data dalam `Overview.xlsx` untuk pencarian cepat dan pengelompokan data berdasarkan parameter seperti barang bukti atau putusan.
-
-## Lisensi
-
-Dataset ini tersedia untuk tujuan pendidikan dan penelitian dengan tetap memperhatikan hak cipta dari dokumen resmi pengadilan yang relevan. Penggunaan data ini harus sejalan dengan etika penelitian dan peraturan yang berlaku.
