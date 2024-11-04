@@ -6,10 +6,10 @@ Dataset ini adalah koleksi 50 putusan Pengadilan Negeri Surabaya antara tahun 20
 
 ## Struktur Dataset
 
-### Folder Dataset
+### Folder /Dataset
 - **Narkotika.zip**: Berisi 50 dokumen PDF putusan yang dikumpulkan dari website Direktori Putusan Mahkamah Agung RI: https://putusan3.mahkamahagung.go.id/direktori.html. Setiap file memuat informasi rinci mengenai kasus spesifik, termasuk data terdakwa, fakta persidangan, dan putusan akhir. 
 
-### Folder Overview
+### Folder /Overview
 - **Overview.xlsx**: Ringkasan informasi setiap putusan dalam bentuk tabel untuk memudahkan pencarian dan analisis data. Tabel ini memiliki kolom:
   - **No**: Nomor urut data.
   - **No Putusan**: Nomor referensi dari putusan pengadilan.
