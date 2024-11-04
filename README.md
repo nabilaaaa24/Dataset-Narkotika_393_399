@@ -27,7 +27,7 @@ Dataset ini dirancang untuk penelitian dan analisis Temu Kembali Informasi pada 
 ## Langkah Akses dan Penggunaan
 
 1. **Ekstraksi PDF**: Buka dan analisis file PDF di dalam `Narkotika.zip`.
-2. **Analisis Data dari Overview.xlsx**: Gunakan data dalam _file .xlsx_ untuk pencarian cepat dan pengelompokan data berdasarkan parameter seperti barang bukti atau putusan.
+2. **Analisis Data dari Overview.xlsx**: Gunakan data dalam `Overview.xlsx` untuk pencarian cepat dan pengelompokan data berdasarkan parameter seperti barang bukti atau putusan.
 
 ## Lisensi
 
